@@ -8,12 +8,19 @@ This app allows students to upload, manage, and delete their resumes securely vi
 ## 🚀 Features
 
 ✅ Upload PDF resumes with student names
+
 ✅ View all uploaded resumes with size, name, and upload date
+
 ✅ Secure download option for resumes
+
 ✅ Admin-only secure delete with password from `.env`
+
 ✅ Fully responsive modern UI (Bootstrap 5 + FontAwesome + Google Fonts)
+
 ✅ Glassmorphism & Animated modern design
+
 ✅ Flash messages for user feedback
+
 ✅ Timezone: **Asia/Kolkata (IST)**
 
 ---
