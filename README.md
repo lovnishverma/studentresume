@@ -118,11 +118,13 @@ Navigate to:
 
 ---
 
-## 🖼️ Sample Screenshot
+## 🖼️ Screenshots
 
+<img width="1787" height="951" alt="image" src="https://github.com/user-attachments/assets/d30a40f1-9b88-4ca0-87ab-f2e6757f5739" />
+
+---
 
 <img width="1777" height="967" alt="image" src="https://github.com/user-attachments/assets/76d819f0-c763-4100-99e3-f1b7e6867d32" />
-
 
 ---
 
