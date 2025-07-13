@@ -118,17 +118,11 @@ Navigate to:
 
 ---
 
-## 🖼️ Sample Screenshot (Conceptual)
+## 🖼️ Sample Screenshot
 
-```
-+----------------------------------------------------+
-|                Total Resumes: 10                   |
-+----------------------------------------------------+
-| Filename       | Size  | Uploaded At               |
-| resume1.pdf    | 120kb | 12-07-2025 10:30 AM (IST)  |
-| [Download] [Delete]                                |
-+----------------------------------------------------+
-```
+
+<img width="1777" height="967" alt="image" src="https://github.com/user-attachments/assets/76d819f0-c763-4100-99e3-f1b7e6867d32" />
+
 
 ---
 
